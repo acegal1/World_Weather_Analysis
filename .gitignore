@@ -1,7 +1,17 @@
+# Adding config.py file and other files 
+config.py
+API_practice.ipynb
+London.ipynb
+random_numbers.ipynb
+Request_JSON_data.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+
+#key
+4a113df74e5fed5e1d001592c1f3cf1d
 
 # C extensions
 *.so
