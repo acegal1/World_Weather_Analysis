@@ -1,10 +1,8 @@
 # Adding config.py file and other files 
 config.py
 API_practice.ipynb
-London.ipynb
 random_numbers.ipynb
-Request_JSON_data.ipynb
-oldcities.csv
+Goggle_Nearby_Search.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
