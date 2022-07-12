@@ -18,20 +18,21 @@ The purpose of this challenge was to improve our PlanMyTrip app so that it conta
 ### Retrieve Weather Data
 - The Weather Data was retrieved based on a set of 2,100 random latitudes and longitudes. Using the Open Weather map and retrieving the information with API, the cities weather data was collected with the current weather description and saved in a new DataFrame.
 
-![Weather_database](https://github.com/acegal1/World_Weather_Analysis/main/weather_Database/Weather_database.jpg)
+![Weather_database](https://github.com/acegal1/World_Weather_Analysis/blob/main/Weather_Database/Weather_database.jpg)
+
 
 ### Create a Customer Travel Destination Map
 - Using customer weather preferences, potential travel destinations were identified along with nearby hotels. The destinations are identified with a marker layer map with pop-up markers.
 
-![WeatherPy_vacation_map](https://github.com/acegal1/World_Weather_Analysis/main/Vacation_Search/WeatherPy_vacation_map.jpg)
+![WeatherPy_vacation_map](https://github.com/acegal1/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.jpg)
 
 ### Create a Travel Itinerary Map
 - Using Google Directions API a travel route was created to display positional coordinate between four cities chosen by the customer.
 
-![WeatherPy_travel_map](https://github.com/acegal1/World_Weather_Analysis/main/Vacation_Itinerary/WeatherPy_travel_map.jpg)
+![WeatherPy_travel_map](https://github.com/acegal1/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.jpg)
 
 - A marker layer map with pop-up was added to provide customized information to the user describing the name of the city, country, hotel and current weather description.
 
-![WeatherPy_travel_markers](https://github.com/acegal1/World_Weather_Analysis/main/Vacation_Itinerary/WeatherPy_travel_markers.jpg)
+![WeatherPy_travel_markers](https://github.com/acegal1/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_markers.jpg)
 
 
